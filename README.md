@@ -1,4 +1,4 @@
-[![License](http://poser.pugx.org/stas-plov/docker-unlock/license)](https://packagist.org/packages/stas-plov/docker-unlock) 
+[![License](http://poser.pugx.org/stas-plov/docker-unlock/license)](https://packagist.org/packages/stas-plov/dto-validator-bundle) 
 
 # docker-unlock
 ### Unlocks docker hub in Russia, Cuba, Iran, North Korea, Republic of Crimea, Sudan, and Syria
