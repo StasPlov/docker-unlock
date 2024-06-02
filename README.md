@@ -12,16 +12,10 @@
 # Docker-Unlock
 Unlocks docker hub in Russia, Cuba, Iran, North Korea, Republic of Crimea, Sudan, and Syria
 
-### How to Use
+### How to Install
 ```bash
-./unlock.sh
+. <(wget -qO- https://github.com/StasPlov/docker-unlock/raw/main/unlock.sh)
 ```
-
-> [!IMPORTANT]\
-> Don't forget to make the script executable:
->```bash
->  chmod +x unlock.sh
-> ```
 
 ## 💖 Support
 
