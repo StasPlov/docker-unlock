@@ -4,9 +4,9 @@
 new_mirrors=(
   "https://dockerhub.timeweb.cloud".
   "https://mirror.gcr.io"
+  "https://quay.io"
   "https://daocloud.io"
   "https://c.163.com"
-  "https://huecker.io"
   "https://registry.docker-cn.com"
 )
 
