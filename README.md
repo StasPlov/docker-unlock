@@ -1,3 +1,5 @@
+<meta name='Разблокировать докер' content='Докер, Разблокировать, Разблокировка докера'>
+
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ubuntu,bash" />
