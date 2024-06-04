@@ -4,6 +4,10 @@
   </a>
 </p>
 
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/StasPlov/docker-unlock/blob/master/README.md)
+[![ru](https://img.shields.io/badge/lang-ru-blue.svg)](https://github.com/StasPlov/docker-unlock/blob/master/README.ru.md)
+[![jp](https://img.shields.io/badge/lang-jp-green.svg)](https://github.com/StasPlov/docker-unlock/blob/master/README.jp.md)
+
 # Docker-Unlock
 Открывает доступ к docker hub в России, на Кубе, в Иране, Северной Корее, Республике Крым, Судане и Сирии
 
