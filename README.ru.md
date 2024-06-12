@@ -22,4 +22,7 @@
 
 Большое вам спасибо за использование моих проектов! Если у вас возникнут какие-либо вопросы, вы всегда можете задать их мне здесь:
 
+Если хотите отблагодарить меня монеткой:
+TON: `UQD-ZbaI-tHINZqu1Mg7GgFSCMm857jlvXJXLxSa1zx0JKGH`
+
 [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/StasPlov)
