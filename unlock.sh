@@ -37,15 +37,15 @@ YELLOW='\033[0;33m'
 NOCOLOR='\033[0m'
 
 while true; do
-    read -p "Restart Docker now? (y/N): "
+    read -p "Reload Docker now? (y/N): "
     if [[ $REPLY =~ ^[Yy]$ ]]; then
-        sudo systemctl restart docker
+        sudo systemctl reload docker
 		echo
-		echo -e "${GREEN}Docker restarted.${NOCOLOR}"
+		echo -e "${GREEN}Docker reloaded.${NOCOLOR}"
         break
     elif [[ $REPLY =~ ^[Nn]$ ]] || [[ -z $REPLY ]]; then
 		echo
-        echo -e "${YELLOW}Docker was not restarted. Please restart it manually to apply changes.${NOCOLOR}"
+		echo -e "${YELLOW}Docker was not reloaded. Please reload (sudo systemctl reload docker) it manually to apply changes.${NOCOLOR}"
         break
 	fi
 done
