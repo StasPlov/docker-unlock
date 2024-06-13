@@ -1,5 +1,3 @@
-<meta name='Разблокировать докер' content='Докер, Разблокировать, Разблокировка докера'>
-
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ubuntu,bash" />
@@ -11,24 +9,21 @@
 [![jp](https://img.shields.io/badge/lang-jp-green.svg)](https://github.com/StasPlov/docker-unlock/blob/master/README.jp.md)
 
 # Docker-Unlock
-Unlocks docker hub in Russia, Cuba, Iran, North Korea, Republic of Crimea, Sudan, and Syria
+ロシア、キューバ、イラン、北朝鮮、クリミア共和国、スーダン、シリアでのDocker Hubのロックを解除します。
 
-### How to Use
+### 使い方
 ```bash
 ./unlock.sh
 ```
 
 > [!IMPORTANT]\
-> Don't forget to make the script executable:
+> スクリプトを実行可能にすることを忘れないでください:
 >```bash
 >  chmod +x unlock.sh
 > ```
 
-## 💖 Support
+## 💖 サポート
 
-Thank you so much for using my projects! If you have any questions, you can always ask me here:
-
-If you want to thank me with a coin
-TON: `UQD-ZbaI-tHINZqu1Mg7GgFSCMm857jlvXJXLxSa1zx0JKGH`
+私のプロジェクトをご利用いただきありがとうございます！ご質問がある場合は、いつでもこちらでお尋ねください:
 
 [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/StasPlov)
